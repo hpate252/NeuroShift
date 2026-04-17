@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Game/NeuroShift/Content/NeuroShift/Maps/L_MainMenu.umap",
+				"D:/Game/NeuroShift/Content/NeuroShift/Maps/L_LabHub.umap",
+				"D:/Game/NeuroShift/Content/NeuroShift/Maps/L_AttentionChamber.umap",
+				"D:/Game/NeuroShift/Content/NeuroShift/Maps/L_MemoryChamber.umap",
+				"D:/Game/NeuroShift/Content/NeuroShift/Maps/L_DecisionChamber.umap",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/BPI_Interactable.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/Struct_ChamberResult.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/Struct_SessionResult.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/BP_GameInstance.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/BP_GameMode.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/BP_PlayerCharacter.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/BP_PlayerController.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/BP_SaveGame.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/BP_MasterChamber.uasset",
+				"D:/Game/NeuroShift/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/BP_TestButton.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Data/Struct_ChamberResult.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/Core/BP_NSGameInstance.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/Chambers/BP_ChamberBase.uasset",
+				"D:/Game/NeuroShift/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/Chambers/BP_Chamber_01.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/Interactables/BP_PortalDoor.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/Chambers/BP_Target.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/Chambers/BP_MemoryTarget.uasset",
+				"D:/Game/NeuroShift/Content/NeuroShift/Blueprints/Chambers/BP_MemoryChamber.uasset"
+			]
+		}
+	]
+}

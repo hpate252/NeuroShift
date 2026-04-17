@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NeuroShift",
+			"Path": "..\\Source\\NeuroShift.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NeuroShiftEditor",
+			"Path": "..\\Source\\NeuroShiftEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

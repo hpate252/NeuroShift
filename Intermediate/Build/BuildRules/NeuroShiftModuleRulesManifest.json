@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Game\\NeuroShift\\Source\\NeuroShift\\NeuroShift.Build.cs",
+		"D:\\Game\\NeuroShift\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"D:\\Game\\NeuroShift\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"D:\\Game\\NeuroShift\\Source\\NeuroShift.Target.cs",
+		"D:\\Game\\NeuroShift\\Source\\NeuroShiftEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}
