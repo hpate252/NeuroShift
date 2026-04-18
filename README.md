@@ -4,13 +4,9 @@
 **NeuroShift** is a first-person cognitive simulation prototype built in **Unreal Engine 5** with **C++**, **Blueprints**, and **Visual Studio Community**.  
 The project is designed to demonstrate technical game programming ability in areas aligned with simulation-focused Unreal Engine development, including interactive systems, user session management, adaptive difficulty, gameplay architecture, UI flow, and prototype-driven development.
 
-This prototype was intentionally structured as a **portfolio project for an Unreal Engine game programming role**, with emphasis on building a polished, extensible, and systems-oriented experience rather than a large-scope commercial game.
-
 ---
 
 ## Project Purpose
-
-NeuroShift was created to showcase practical skills relevant to a **Game Programmer, Unreal Engine** position focused on:
 
 - developing interactive applications in **Unreal Engine**
 - building maintainable gameplay systems in **C++**
@@ -135,8 +131,6 @@ The architecture is being prepared for future integration with external data sys
 - local analytics endpoints
 - real-time simulation tuning
 
-This aligns with technical roles involving **data-connected simulation tools** and **interactive research prototypes**.
-
 ---
 
 ## Current Core Systems
@@ -234,7 +228,7 @@ Defines level/game rules and serves as a foundation for future specialized game 
 NSPlayerController
 Handles UI flow, input state transitions, and menu/game interaction control.
 NSCharacter
-Manages first-person movement, input, and interact tracing.
+Manages first-person movement, input, and interaction tracing.
 NSSaveGame
 Stores session history and local result data.
 NSChamberBase
@@ -345,17 +339,10 @@ Decision Chamber implementation
 results screen polish
 data export / API integration
 VFX and presentation refinement
-Author
-
-[Your Name]
+Author: Hetansh Jigarbhai Patel
 Aspiring Game Programmer | Unreal Engine Developer
 
-Portfolio: [Add your link]
-GitHub: [Add your link]
-LinkedIn: [Add your link]
-Final Note
-
-NeuroShift is not intended to be a large-scope commercial title.
+NeuroShift is not intended to be a large-scale commercial title.
 It is a focused technical Unreal Engine prototype designed to demonstrate strong fundamentals in:
 
 C++ gameplay programming
@@ -366,21 +353,6 @@ scalable Blueprint + C++ workflows
 
 It reflects a deliberate effort to build a project aligned with the needs of a technical Unreal Engine role involving gameplay systems, simulation, and cross-functional prototype development.
 
-
-A few edits will make it even stronger for your application:
-
-Replace:
-- `[Your Name]`
-- portfolio/GitHub/LinkedIn links
-
-And if you actually add these later, mention them honestly:
-- JSON config loading
-- REST API result posting
-- Niagara VFX
-- shader/post-process effects
-- VR-ready interaction support
-
-Best small improvement for this README title:
 
 ```markdown
 # NeuroShift
