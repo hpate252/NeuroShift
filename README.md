@@ -184,7 +184,7 @@ This setup is used for:
 
 ---
 
-## Project Structure
+## Project Structure and Future Implementations
 
 ```text
 Content/
